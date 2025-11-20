@@ -1,4 +1,4 @@
-# Predictive Modeling of Marine Eutrophication Hotspots along the Indian Coastline
+# Predictive Modeling of Marine Pollution Hotspots along the Indian Coastline
 
 ## 1. Project Overview
 
